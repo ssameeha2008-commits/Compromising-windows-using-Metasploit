@@ -81,6 +81,12 @@ The file "fun.exe" downloads.
 ## OUTPUT:
 
 <img width="1032" height="575" alt="image" src="https://github.com/user-attachments/assets/56b74c03-2dd0-4277-9759-69530b52f94a" />
+<img width="1252" height="282" alt="image" src="https://github.com/user-attachments/assets/43ce64fd-5706-4dd7-9748-c21a3509355f" />
+<img width="1255" height="718" alt="image" src="https://github.com/user-attachments/assets/2bf7495e-2591-42f0-ae3a-bb2530607314" />
+<img width="1252" height="491" alt="image" src="https://github.com/user-attachments/assets/6008f8dc-e271-4de0-a13e-de09bfe4d975" />
+<img width="1258" height="762" alt="image" src="https://github.com/user-attachments/assets/46d61330-3e45-4030-bb72-09464c22d857" />
+<img width="2020" height="779" alt="image" src="https://github.com/user-attachments/assets/011d361b-a782-428a-bd1b-bfa50c0c515f" />
+<img width="951" height="372" alt="image" src="https://github.com/user-attachments/assets/7a235bd2-0102-45d6-925d-27c78cb39ffe" />
 
 
 
